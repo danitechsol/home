@@ -1,0 +1,107 @@
+@font-face
+{
+   font-family: "Material Icons";
+   font-display: swap;
+   src: url('https://drive.google.com/uc?id=1kRWqvbzfjN4enxoC9vmSiPy-erGRnVfI') format('woff2'),
+        url('https://drive.google.com/uc?id=1kUGh-GBLxD-fhwIyNo3ts103WDH_gQm-') format('woff'),
+        url('https://drive.google.com/uc?id=1kafc7ODMXwWgT9Yg9FczzDep0CavK0QI') format('truetype');
+}
+@font-face
+{
+   font-family: "Material Icons";
+   font-display: swap;
+   src: url('https://drive.google.com/uc?id=1kRWqvbzfjN4enxoC9vmSiPy-erGRnVfI') format('woff2'),
+        url('https://drive.google.com/uc?id=1kUGh-GBLxD-fhwIyNo3ts103WDH_gQm-') format('woff'),
+        url('https://drive.google.com/uc?id=1kafc7ODMXwWgT9Yg9FczzDep0CavK0QI') format('truetype');
+}
+h1, .h1
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 32px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h2, .h2
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 27px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h3, .h3
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 24px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h4, .h4
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h5, .h5
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 19px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h6, .h6
+{
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-weight: 400;
+   font-weight: 400;
+   font-size: 16px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
