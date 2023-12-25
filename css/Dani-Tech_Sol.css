@@ -2,17 +2,17 @@
 {
    font-family: "Material Icons";
    font-display: swap;
-   src: url('https://drive.google.com/uc?id=1kRWqvbzfjN4enxoC9vmSiPy-erGRnVfI') format('woff2'),
-        url('https://drive.google.com/uc?id=1kUGh-GBLxD-fhwIyNo3ts103WDH_gQm-') format('woff'),
-        url('https://drive.google.com/uc?id=1kafc7ODMXwWgT9Yg9FczzDep0CavK0QI') format('truetype');
+   src: url('../fonts/MaterialIcons-Regular.html') format('woff2'),
+        url('../fonts/MaterialIcons-Regular-2.html') format('woff'),
+        url('../fonts/MaterialIcons-Regular-3.html') format('truetype');
 }
 @font-face
 {
    font-family: "Material Icons";
    font-display: swap;
-   src: url('https://drive.google.com/uc?id=1kRWqvbzfjN4enxoC9vmSiPy-erGRnVfI') format('woff2'),
-        url('https://drive.google.com/uc?id=1kUGh-GBLxD-fhwIyNo3ts103WDH_gQm-') format('woff'),
-        url('https://drive.google.com/uc?id=1kafc7ODMXwWgT9Yg9FczzDep0CavK0QI') format('truetype');
+   src: url('../fonts/MaterialIcons-Regular.html') format('woff2'),
+        url('../fonts/MaterialIcons-Regular-2.html') format('woff'),
+        url('../fonts/MaterialIcons-Regular-3.html') format('truetype');
 }
 h1, .h1
 {

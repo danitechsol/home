@@ -401,7 +401,7 @@ body
 {
    float: none;
    position: relative;
-   width: 156px;
+   width: 105px;
 }
 #wb_ResponsiveMenu2 ul ul li a
 {
@@ -429,7 +429,7 @@ body
 }
 #wb_ResponsiveMenu2 ul ul ul li 
 {
-   left: 156px;
+   left: 105px;
    position: relative;
    top: -41px;
 }
@@ -508,7 +508,7 @@ body
    background-color: #FFFFFF;
    color: #696969;
    padding: 0 20px 0 20px;
-   line-height: 50px;
+   line-height: 30px;
    text-decoration: none;
    border: none;
    position: relative;
@@ -978,7 +978,7 @@ body
    height: 75vh;
    background-clip: padding-box;
    background-color: transparent;
-   background-image: url('https://drive.google.com/uc?id=1gkQEircHVx8HGFEO-J3i7v-FLbPlYGb_');
+   background-image: url('https://drive.google.com/uc?id=1rJdmVH92MN_isuFsZ-f8193NrgPdxbOm');
    background-repeat: no-repeat;
    background-position: center center;
    background-attachment: fixed;
